@@ -1,0 +1,21 @@
+{
+    "foods" : [
+        {
+            "id": 1,
+            "slug": "suji-halwa",
+            "title": "Suji Halwa",
+            "desc": "Aashirvaad Instant Meals Suji Halwa with Jaggery Cup 70g, Ready to Eat Indian Dessert",
+            "img": "https://m.media-amazon.com/images/I/819AbMGVPTL._AC_UL320_.jpg",
+            "price": 300
+        },
+        
+        {
+            "id": 2,
+            "slug": "baby-cereal",
+            "title": "Baby Cereal",
+            "desc": "Manna Baby Cereal 200g | Baby Food (6+Months) Sprouted Jowar with Beetroot Powder | 100% Natural Health Mix | Infant Food ",
+            "img": "https://m.media-amazon.com/images/I/71x-w0j1TyL._SX679_.jpg",
+            "price": 500
+        }
+    ]
+}
