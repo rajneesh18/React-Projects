@@ -1,0 +1,28 @@
+{
+    "products": [
+        {
+            "id": "1",
+            "slug": "anouk",
+            "title": "Anouk",
+            "desc": "Men Rust Orange & Off White Geometric Printed Pure Cotton Kurta",
+            "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/18331860/2022/6/1/5bee1e16-7cee-4e85-bdac-3a3f93ccf7ce1654084917841-Anouk-Men-Kurtas-8421654084917327-1.jpg",
+            "price": "1079"
+        },
+        {
+            "id": "2",
+            "slug": "odr-by-house-of-pataudi",
+            "title": "Ode by House of Pataudi",
+            "desc": "Men Fuschia & Gold-Toned Ethnic Motifs Printed Thread Work Kurta",
+            "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/17792290/2022/6/2/9975bf5f-ab9f-4b7e-8641-5556e12e72831654168901950-Ode-by-House-of-Pataudi-Men-Kurtas-361654168901302-1.jpg",
+            "price": "1799"
+        },        
+        {
+            "id": "3",
+            "slug": "men-green-and-gold-toned-woven-design-straight-kurta",
+            "title": "Men Green & Gold-Toned Woven Design Straight Kurta",
+            "desc": "Men Green & Gold-Toned Woven Design Straight Kurta",
+            "img": "https://assets.myntassets.com/h_720,q_90,w_540/v1/assets/images/productimage/2019/7/5/1c8d36aa-d7a6-4598-a564-e236ddd64b301562320690270-1.jpg",
+            "price": "899"
+        }
+    ]
+}
