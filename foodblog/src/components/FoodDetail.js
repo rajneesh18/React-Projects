@@ -23,7 +23,7 @@ function FoodDetail() {
         console.log("Error from FOOD API", error);
       }
     );
-  });
+  },[]);
 
   return (
     <Container>
